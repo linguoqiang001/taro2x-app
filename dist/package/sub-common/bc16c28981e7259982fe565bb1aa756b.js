@@ -1,0 +1,1 @@
+(wx.webpackJsonp=wx.webpackJsonp||[]).push([[3],[,function(n,o,c){"use strict";c.d(o,"a",(function(){return s}));var s=function foo(){console.log("=123=")}}]]);
