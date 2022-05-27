@@ -31,6 +31,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "@tarojs/cli": "2.2.17",
     "@tarojs/components": "2.2.17",
     "@tarojs/components-qa": "2.2.17",
     "@tarojs/router": "2.2.17",
